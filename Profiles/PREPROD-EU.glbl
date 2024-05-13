@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>PREPROD-EU</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://preprod-eu.podium365.com/ '</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Psylabs production account for you (clientid = 2151), this can be used to test the Default Language and Report Format variables</description>
+      <initValue>'psylabstesting@podium365.com'</initValue>
+      <name>usernamepsylab</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'acnlvh(p'</initValue>
+      <name>passwordpsylab</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This account should share data and credits with the above account</description>
+      <initValue>'creditdatapooltest@podium365.com'</initValue>
+      <name>usernamepool</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'s1OrS$5t'</initValue>
+      <name>passwordpool</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This account will not share credits and data with the other accounts</description>
+      <initValue>'nocreditdatapooltest@podium365.com'</initValue>
+      <name>usernamenopool</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ljIT06n%'</initValue>
+      <name>passwordnopool</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

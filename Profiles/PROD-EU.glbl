@@ -24,4 +24,9 @@
       <initValue>'talogy@podium365.com'</initValue>
       <name>username2</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Jon@2024'</initValue>
+      <name>password2</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

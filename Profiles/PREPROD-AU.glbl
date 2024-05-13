@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalVariableEntities>
    <description></description>
-   <name>STG-EU</name>
+   <name>PREPROD-AU</name>
    <tag></tag>
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://staging-eu.podium365.com/ '</initValue>
+      <initValue>'https://preprod-au.podium365.com/'</initValue>
       <name>url</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -16,17 +16,17 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Jon@2024'</initValue>
+      <initValue>'yNl6f2!E'</initValue>
       <name>password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'talogy@podium365.com'</initValue>
+      <initValue>'jjscabangon@podium365.com'</initValue>
       <name>username2</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Jon@2024'</initValue>
+      <initValue>'#1oe60YC'</initValue>
       <name>password2</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
